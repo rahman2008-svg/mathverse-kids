@@ -1,0 +1,6 @@
+{
+  "name": "MathVerse Kids",
+  "description": "An interactive, gamified, and completely offline math learning world for kids. Play Math. Master Numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
